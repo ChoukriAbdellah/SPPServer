@@ -1,0 +1,28 @@
+{ 
+    "id ": 1,
+    "cours" : "maths",
+    "chapitres" :{
+       "chapitreUn" : {
+            "titre" : "NOTION D'ALGORITHME",
+            "texte" : "Les instructions doivent être formulées dans un langage compréhensible par l'exécutant. Dans le cas d'un humain, il s'agira du langage courant (langue maternelle), ; dans le cas d'une machine, il faudra recourir à un langage de programmation En algorithmique, nous utiliserons un langage situé à mi-chemin entre le langage courant et un langage de programmation appelé pseudo-code. Il n'y a pas de norme concernant ce pseudo-code qui peut varier légèrement d'un enseignant à l'autre. Le but est surtout de mettre l'accent sur la logique de l'algorithme. L'avantage du pseudo-code est qu'il permet de rester proche d'un langage informatique sans qu'il soit nécessaire de connaître toutes les règles et spécificités d'un langage particulier."
+                
+            
+
+       },
+       "chapitreDeux" : {
+        "titre" : "",
+        "texte" : ""
+
+    },
+    "chapitreTrois" : {
+        "titre" : "",
+        "texte" : ""
+    },
+     "chapitreQuatre" : {
+        "titre" : "",
+        "texte" : ""
+    }
+
+    }
+    
+}

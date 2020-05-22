@@ -1,0 +1,33 @@
+{
+  "name": "node_login",
+  "version": "1.0.0",
+  "description": "login and register with MySql use NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/choukri-abdellah/school-plus.git"
+  },
+  "keywords": [
+    "motdepasse"
+  ],
+  "author": "choukri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/choukri-abdellah/school-plus/issues"
+  },
+  "homepage": "https://gitlab.com/choukri-abdellah/school-plus#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.6",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "socket.io": "^2.3.0",
+    "uuid": "^7.0.3"
+  }
+}
